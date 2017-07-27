@@ -1,2 +1,0 @@
-# vymazat
-vymazat
